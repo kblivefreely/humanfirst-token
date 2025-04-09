@@ -1,4 +1,3 @@
-# humanfirst-token
 <!DOCTYPE html>
 <html lang="en">
 <head>
