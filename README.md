@@ -120,7 +120,7 @@
   <p>We are preparing to launch HumanFirst Token (HFT) to early supporters very soon!</p>
   <p>Here’s how you can help:</p>
   <ul>
-    <li>Follow us on social media (Twitter, LinkedIn, Discord - coming soon!)</li>
+    <li>Follow us on social media (Twitter, LinkedIn, Discord, Facebook, Instangram - coming soon!)</li>
     <li>Share our mission with your friends and network</li>
     <li>Be ready to mint your HFT and show your commitment to a human-centered AI future</li>
   </ul>
