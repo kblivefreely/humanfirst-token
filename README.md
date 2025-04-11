@@ -106,7 +106,7 @@
 </section>
 
 <section id="donate">
-  <h2>Donate and Mint HFT</h2>
+  <h2>Donate and Mint (Work-in-progress) HFT</h2>
   <p>Support responsible AI by donating today. Your donation directly powers education, awareness, and advocacy programs worldwide.</p>
 
   <div class="donate-box">
