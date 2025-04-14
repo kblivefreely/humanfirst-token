@@ -116,25 +116,6 @@
     <button class="donate-button">Connect Wallet & Donate</button>
   </div>
   
-</section>
-<section id="creditcard-donate">
-  <h2>Donate to HumanFirst with Credit Card</h2>
-  <p>Support responsible AI easily — buy crypto using your credit card and automatically mint HFT tokens!</p>
-
-  <!-- Onramper Widget Embed -->
-  <iframe 
-    src="https://buy.onramper.com?defaultCrypto=SOL&defaultAmount=100&themeName=light&onlyCryptos=SOL,USDC&wallets=your-wallet-address-here" 
-    height="630px" 
-    width="100%" 
-    frameborder="0"
-    allow="accelerometer; autoplay; camera; gyroscope; payment">
-  </iframe>
-
-  <p style="font-size: 0.85em; color: #555;">
-    Powered by Onramper. All credit card transactions are processed securely.
-  </p>
-</section>
-
 <section id="fundraising">
   <h2>Fundraising Model</h2>
   <ul>
