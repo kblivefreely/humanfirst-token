@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
   <title>HumanFirst Token (HFT) - Empower Humanity in the Age of AI</title>
   <style>
     body {
@@ -115,6 +115,24 @@
     <p>You will receive: <strong>1,000 HFT</strong> per 1 SOL</p>
     <button class="donate-button">Connect Wallet & Donate</button>
   </div>
+  
+</section>
+<section id="creditcard-donate">
+  <h2>Donate to HumanFirst with Credit Card</h2>
+  <p>Support responsible AI easily — buy crypto using your credit card and automatically mint HFT tokens!</p>
+
+  <!-- Onramper Widget Embed -->
+  <iframe 
+    src="https://buy.onramper.com?defaultCrypto=SOL&defaultAmount=100&themeName=light&onlyCryptos=SOL,USDC&wallets=your-wallet-address-here" 
+    height="630px" 
+    width="100%" 
+    frameborder="0"
+    allow="accelerometer; autoplay; camera; gyroscope; payment">
+  </iframe>
+
+  <p style="font-size: 0.85em; color: #555;">
+    Powered by Onramper. All credit card transactions are processed securely.
+  </p>
 </section>
 
 <section id="fundraising">
