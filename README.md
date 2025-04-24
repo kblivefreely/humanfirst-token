@@ -93,7 +93,7 @@
   <h2>Our Mission</h2>
   <p>At HumanFirst, we believe AI must evolve ethically, responsibly, and always serve humanity. Our mission is to fund education, advocacy, and global development programs through a decentralized, transparent trust.</p>
   <p><strong>Vision:</strong> A future where AI empowers humans, protects rights, and uplifts society — not replaces or controls it.</p>
-  <p><strong>Why I Feel Strongly About Responsible AI.</p>
+  <p><strong>Why I Feel Strongly About Responsible AI.</strong></p>
   <p>AI is already reshaping humanity’s future — but without strong ethical frameworks, it may serve only the powerful, not the public.</p>
   <p>Bias in AI is real — if left unchecked, it can reinforce inequality, discriminate silently, and erode trust in institutions. </p>
   <p>Automation without responsibility risks displacing workers without protecting people’s livelihoods or dignity.</p>
