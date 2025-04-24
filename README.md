@@ -175,5 +175,3 @@
   Together, we are shaping a future where AI serves humanity — not controls it.
 </footer>
 
-</body>
-</html>
