@@ -1,4 +1,3 @@
-<html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -124,7 +123,8 @@
     <p>You will receive: <strong>1,000 HFT</strong> per 1 SOL</p>
     <button class="donate-button">Connect Wallet & Donate</button>
   </div>
-  
+ </section> 
+ 
 <section id="fundraising">
   <h2>Fundraising Model</h2>
   <ul>
